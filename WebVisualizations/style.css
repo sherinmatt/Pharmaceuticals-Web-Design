@@ -1,6 +1,6 @@
-/* Your stylesheet */
+/* stylesheet */
 
-
+/* body */
 body {
     
     font-size: 18px;
@@ -13,7 +13,7 @@ body {
 .navbar-light .navbar-brand{
     color:white;
 }
-
+/* navbar */
 .navbar {
     padding: 0;
     background-color: white;
@@ -29,6 +29,7 @@ body {
     font-size: 22px;
     font-weight: bolder;
 }
+
 .navbar-collapse {
     
     position: absolute;
@@ -41,13 +42,15 @@ body {
     font-weight: bolder;
 }
 
+/* container */
+
 .container {
-    padding : .5em;
+    padding : .6em;
     width: 90%;
 }
 
 .row {
- padding: .5em;
+ padding: .6em;
  width: 90%;
  margin: 35px auto;
  
@@ -72,6 +75,7 @@ body {
 
 }
 
+/* need to select p elements which not intro */
 p:not(.intro){
 
     text-align: justify;
@@ -80,11 +84,11 @@ p:not(.intro){
 }
 
 .main-image {
-
-    margin-right: auto;
-    margin-left: auto;
     width: 46%;
     float: left;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .thumbnail {
@@ -92,11 +96,12 @@ p:not(.intro){
     margin: 29px auto;
     width: 47%;
 }
-
+/* desktop screen */
 .col-md-8{
     background-color: white;
 }
 
+/* small screen, desktop screen */
 .col-sm-12, .col-md-4 {
     margin: 12px auto;
     background-color: white;
@@ -116,6 +121,7 @@ div.row div.col-lg-6.col-sm-12 img {
     width: 100%;
 }
 
+/* small screen, desktop screen */
 div.col-sm-12.col-md-12 p {
     font-size: medium;
     color:black;
