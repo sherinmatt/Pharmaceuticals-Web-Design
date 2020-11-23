@@ -54,7 +54,7 @@ body {
 }
 
 .buttons {
-    margin-bottom: .5em;
+    margin-bottom: .6em;
 }
 
 .text-left {
@@ -116,13 +116,13 @@ div.row div.col-lg-6.col-sm-12 img {
     width: 100%;
 }
 
-div.col-sm-12.col-md-12 p{
+div.col-sm-12.col-md-12 p {
     font-size: medium;
     color:black;
 }
 
 @media(max-width:480px){
-    .col-md-8{
+    .col-md-8 {
         display:block;
     }
 }
