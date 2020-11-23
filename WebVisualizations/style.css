@@ -20,6 +20,7 @@ body {
     width: 100%;
 
 }
+/* navbar-brand */
 
 .navbar-brand {
     background-color : rgb(37, 141, 141);
@@ -42,18 +43,11 @@ body {
     font-weight: bolder;
 }
 
-/* container */
-
+/* .container: so here we select elements in regarsds to class */
 .container {
     padding : .6em;
     width: 90%;
-}
-
-.row {
- padding: .6em;
- width: 90%;
- margin: 35px auto;
- 
+    margin: 35px auto;
 }
 
 .buttons {
