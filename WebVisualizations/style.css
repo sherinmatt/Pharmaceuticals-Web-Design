@@ -1,8 +1,9 @@
 /* Your stylesheet */
 
+
 body {
     
-    font-size: 16.5px;
+    font-size: 18px;
     margin:0;
     font-family: sans-serif;
     background-color: #eee;
@@ -25,7 +26,7 @@ body {
     padding: 10px;
     margin-left: 1%;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bolder;
 }
 .navbar-collapse {
@@ -74,18 +75,17 @@ p:not(.intro){
 
 }
 
-
 .main-image {
 
     margin-right: auto;
     margin-left: auto;
-    width: 48%;
+    width: 46%;
     float: left;
 }
 
 .thumbnail {
     
-    margin: 21px auto;
+    margin: 29px auto;
     width: 47%;
 }
 
@@ -93,13 +93,13 @@ p:not(.intro){
     background-color: white;
 }
 
-.col-sm-12, .col-md-4{
-    margin: 22px auto;
+.col-sm-12, .col-md-4 {
+    margin: 12px auto;
     background-color: white;
 }
 
 div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img{
-    width: 90%;
+    width: 95%;
 }
 
 .row {
@@ -107,7 +107,7 @@ div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img{
     background-color: white;
 }
 
-div.row div.col-lg-6.col-sm-12 img{
+div.row div.col-lg-6.col-sm-12 img {
     width: 100%;
 }
 
