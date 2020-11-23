@@ -11,4 +11,4 @@
 * * A comparison pages that displays the four scatterplots with analysis that shows up when we click the plot.
 * * A data page with the table I used to make my scatterplots.
 
-Website Link: 
+Website Link: https://sherinmatt.github.io/Web-Design-Challenge/
