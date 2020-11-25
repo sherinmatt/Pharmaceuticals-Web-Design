@@ -3,7 +3,7 @@
 /* body */
 body {
     
-    font-size: 18px;
+    font-size: 19px;
     margin:0;
     font-family: sans-serif;
     background-color: #eee;
@@ -40,24 +40,27 @@ body {
 }
 
 .nav-item {
+
     font-weight: bolder;
 }
 
 /* .container: so here we select elements in regarsds to class */
 .container {
+
     padding : .6em;
     width: 90%;
     margin: 35px auto;
 }
 
 .buttons {
+
     margin-bottom: .6em;
 }
 
 .text-left {
 
     text-align: left;
-    color: rgb(37, 141, 141);
+    color: rgb(35, 124, 124);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
 }
@@ -97,12 +100,14 @@ p:not(.intro){
 
 /* small screen, desktop screen */
 .col-sm-12, .col-md-4 {
+    
     margin: 12px auto;
     background-color: white;
 }
 
 
 div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img{
+
     width: 95%;
 }
 
