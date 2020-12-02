@@ -95,13 +95,13 @@ p:not(.intro){
 }
 /* desktop screen */
 .col-md-8{
-    background-color: rgba(255, 255, 255, 0.699);
+    background-color:  rgba(250, 252, 252, 0.699);
 }
 
 /* small screen, desktop screen */
 .col-sm-12, .col-md-4 {
     margin: 12px auto;
-    background-color: rgba(255, 255, 255, 0.699);
+    background-color:  rgba(250, 252, 252, 0.699);
 }
 
 
