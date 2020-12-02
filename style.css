@@ -95,14 +95,13 @@ p:not(.intro){
 }
 /* desktop screen */
 .col-md-8{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.699);
 }
 
 /* small screen, desktop screen */
 .col-sm-12, .col-md-4 {
-    
     margin: 12px auto;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.699);
 }
 
 
@@ -111,10 +110,6 @@ div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img{
     width: 95%;
 }
 
-.row {
-   
-    background-color: rgb(255, 255, 255);
-}
 
 div.row div.col-lg-6.col-sm-12 img {
     width: 100%;
