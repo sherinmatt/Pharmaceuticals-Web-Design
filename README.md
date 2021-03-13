@@ -1,13 +1,16 @@
 # Web-Design-Challenge
 #
    ## Summary
-    * The goal of this project is to analyze impact of 4 different anti-cancer drugs. Here, I compare, mouse weight vs average volume of tumor, for the following drug regimes : Capomulin, Ramicane, Infubinol and Ceftamin. 
+    * The goal of this project is to analyze impact of 4 different anti-cancer drugs. Here, we compare, mouse weight vs average volume of tumor, for the following drug regimes : Capomulin, Ramicane, Infubinol and Ceftamin. 
     
    ## Technologies Used:
     * HTML
     * CSS
     * Javascript
-   
+    
+  ## Data:
+   [Pymaceuticals Data](https://github.com/sherinmatt/matplotlib-challenge)
+    
    ## Steps Taken:
     * Main goal here was to look at how anti-cancer drug Capomulin fared compared to other three drugs.
     * I utilized Matplotlib to analyze the mouse_metadata and study_result data files. And to plot the various visualizations.
@@ -20,4 +23,8 @@
       *  A data page with the table I used to make my scatterplots.
 
    ## Inspiration
-      *  Bootcamp
+      *  Rutgers Bootcamp
+
+   ## Contact
+      * Sherin Mattappallil
+  
