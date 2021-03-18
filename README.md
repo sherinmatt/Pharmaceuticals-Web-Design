@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Pharmaceuticals-Web-Design
 #
    ## Summary
     * The goal of this project is to analyze impact of 4 different anti-cancer pharmaceutical drugs. Here, we compare, mouse weight vs average volume of tumor, for the following drug regimes : Capomulin, Ramicane, Infubinol and Ceftamin. 
