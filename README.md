@@ -23,6 +23,8 @@
       *  A comparison pages that displays the four scatterplots with analysis that shows up when we click the plot.
       *  A data page with the table I used to make my scatterplots.
 
+  ![alt](https://github.com/sherinmatt/Pharmaceuticals-Web-Design/blob/main/Resources/images/Pymaceuticals_img.png)
+
    ## Inspiration
       *  Rutgers Bootcamp
 
