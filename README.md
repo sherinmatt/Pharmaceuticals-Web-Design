@@ -1,7 +1,7 @@
 # Pharmaceuticals-Web-Design
 #
    ## Summary
-    * The goal of this project is to analyze impact of 4 different anti-cancer pharmaceutical drugs. 
+    * The goal is to utilize statistical modeling (linear regression) to analyze the impact of 4 different anti-cancer pharmaceutical drugs. 
     * Here, we model, mouse weight vs average volume of tumor, for the following drug regimes : Capomulin, Ramicane, Infubinol and Ceftamin. 
     
    ## Technologies Used:
