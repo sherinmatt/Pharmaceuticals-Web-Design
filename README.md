@@ -27,8 +27,8 @@
 
   ![alt](https://github.com/sherinmatt/Pharmaceuticals-Web-Design/blob/main/Resources/images/Pymaceuticals_img.png)
    
-   ## 
-      * Study Significance: Based on the linear regression scatterplots, there was a positive correlation between mouse weight and average volume of tumor under the Capomulin drug regimen.
+   ##  Key Insights:
+      *  Based on the linear regression scatterplots, there was a positive correlation between mouse weight and average volume of tumor under the Capomulin drug regimen.
 
    ## Inspiration
       *  Rutgers Bootcamp
