@@ -1,7 +1,8 @@
 # Pharmaceuticals-Web-Design
-#
+# Dashboard Visualization of Statistical Modeling
+
    ## Summary
-    * The goal is to utilize statistical modeling (linear regression) to analyze the impact of 4 different anti-cancer pharmaceutical drugs. 
+    * The goal is to create a dashboard to visualize the statistical modeling (linear regression) that analyzes the impact of 4 different anti-cancer pharmaceutical drugs. 
     * Here, we model, mouse weight vs average volume of tumor, for the following drug regimes : Capomulin, Ramicane, Infubinol and Ceftamin. 
     
    ## Technologies Used:
@@ -16,6 +17,7 @@
    ## Steps Taken:
     * Main objective was to look at how anti-cancer drug Capomulin fared compared to the other three drugs.
     * Utilized Matplotlib to analyze the mouse_metadata and study_result data files. And to plot the various visualizations.
+    * Utilized HTML, CSS Javascript to create dashboard.
     
    
    ##
