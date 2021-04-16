@@ -17,7 +17,7 @@
    ## Steps Taken:
     * Main objective was to look at how anti-cancer drug Capomulin fared compared to the other three drugs.
     * Utilized Matplotlib to analyze the mouse_metadata and study_result data files. And to plot the various visualizations.
-    * Utilized HTML, CSS Javascript to create dashboard.
+    * Utilized HTML, CSS, Javascript to create dashboard.
     
    
    ##
