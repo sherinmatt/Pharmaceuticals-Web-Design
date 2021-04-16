@@ -4,6 +4,7 @@
    ## Summary
     * Develop an interactive website that consists of statistical modeling (linear regression) to analyze the impact of four different anti-cancer pharmaceutical drugs and showcase key insights. 
     * Here, we model, mouse weight vs average volume of tumor, for the following drug regimes : Capomulin, Ramicane, Infubinol and Ceftamin. 
+    * See how anti-cancer drug Capomulin fared compared to the other three drugs.
     
    ## Technologies Used:
     * HTML
